@@ -13,12 +13,14 @@
 ## 📝 폴더 및 파일명 규칙
 - 일자별 폴더명은 `yyyy-mm-dd`형식을 사용합니다.
 - 문제별 폴더명은 `[플랫폼] 레벨_번호_문제이름`형식을 사용합니다.
+  - 백준 : `BOJ`
+  - 프로그래머스 : `PGS`
 - 개인 파일명은 `mmdd 이름`형식을 사용합니다.
 
 <br />
 
 ## 🐥 멤버
-<table style="'background-color': 'red'">
+<table>
  <tr>
     <td align="center"><a href="https://github.com/Taesun0727"><img src="https://avatars.githubusercontent.com/Taesun0727" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/sw0610"><img src="https://avatars.githubusercontent.com/sw0610" width="130px;" alt=""></a></td>
