@@ -45,7 +45,7 @@
 
 |날짜|1|2|3|
 |:-:|:-:|:-:|:-:|
-|2023.07.10||||
+|2023.07.10|[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)|[입국심사](https://www.acmicpc.net/problem/3079)|[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|
 |2023.07.11||||
 |2023.07.12||||
 |2023.07.13||||
