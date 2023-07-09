@@ -52,7 +52,7 @@
 | 2023.07.10 | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | [입국심사](https://www.acmicpc.net/problem/3079) |  [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)  |
 | 2023.07.11 |  [줄어들지 않아](https://www.acmicpc.net/problem/2688)  |  [도서관](https://www.acmicpc.net/problem/1461)  | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) |
 | 2023.07.12 |   [테트로미노](https://www.acmicpc.net/problem/14500)   | [내리막길](https://www.acmicpc.net/problem/1520) |   [등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500)    |
-| 2023.07.13 |                                                         |                                                  |                                                                               |
+| 2023.07.13 |   [토마토](https://www.acmicpc.net/problem/7576)     |      [치즈](https://www.acmicpc.net/problem/2636)     |   [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)      |
 | 2023.07.14 |                                                         |                                                  |                                                                               |
 
 <br />
