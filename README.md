@@ -53,6 +53,6 @@
 | 2023.07.11 |  [줄어들지 않아](https://www.acmicpc.net/problem/2688)  |  [도서관](https://www.acmicpc.net/problem/1461)  | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) |
 | 2023.07.12 |   [테트로미노](https://www.acmicpc.net/problem/14500)   | [내리막길](https://www.acmicpc.net/problem/1520) |   [등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500)    |
 | 2023.07.13 |   [토마토](https://www.acmicpc.net/problem/7576)     |      [치즈](https://www.acmicpc.net/problem/2636)     |   [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)      |
-| 2023.07.14 |                                                         |                                                  |                                                                               |
+| 2023.07.14 |   [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)                                                      |   [인구 이동](https://www.acmicpc.net/problem/16234)                                               |   [단어 수학](https://www.acmicpc.net/problem/1339)                                                                            |
 
 <br />
