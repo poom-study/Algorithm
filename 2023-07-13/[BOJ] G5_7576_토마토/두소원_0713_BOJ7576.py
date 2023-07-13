@@ -3,7 +3,6 @@ from collections import deque
 
 def find():
     res = -1 # 맨 처음 토마토도 시간에 포함이 돼서 -1부터 시작함
-
     dx = [-1, 0, 1, 0]
     dy = [0, 1, 0, -1]
 
@@ -37,5 +36,4 @@ for i in range(N):
         if box[i][j] ==0:
             ans = -1
             break
-
 print(ans)
