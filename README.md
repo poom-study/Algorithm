@@ -62,7 +62,7 @@
 | :--------: | :-------------------------------------------------: | :----------------------------------------: | :------------------------------------------------------------------------------: |
 | 2023.07.17 | [다리 만들기](https://www.acmicpc.net/problem/2146) | [뱀](https://www.acmicpc.net/problem/3190) | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) |
 | 2023.07.18 | [두 용액](https://www.acmicpc.net/problem/2470)   |[휴게소 세우기](https://www.acmicpc.net/problem/1477) | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|
-| 2023.07.19 |                                                     |                                            |                                                                                  |
+| 2023.07.19 | [물통](https://www.acmicpc.net/problem/2251) | [친구비](https://www.acmicpc.net/problem/16562) | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|
 | 2023.07.20 |                                                     |                                            |                                                                                  |
 | 2023.07.21 |                                                     |                                            |                                                                                  |
 
