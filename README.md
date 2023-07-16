@@ -17,7 +17,7 @@
 - 문제별 폴더명은 `[플랫폼] 레벨_번호_문제이름`형식을 사용합니다.
   - 백준 : `BOJ`
   - 프로그래머스 : `PGS`
-- 개인 파일명은 해당 문제 날짜를 기준으로 `이름_mmdd_플랫폼+문제번호`형식을 사용합니다.
+- 개인 파일명은 해당 문제 날짜를 기준으로 `mmdd 이름`형식을 사용합니다.
 - 커밋은 해당 문제 날짜를 기준으로 `이모지 mmdd 이름 문제풀이`형식을 사용합니다.
 
 <br />
@@ -58,12 +58,12 @@
 
 <br />
 
-|    날짜    |                          1                          |                     2                      |                                        3                                         |
-| :--------: | :-------------------------------------------------: | :----------------------------------------: | :------------------------------------------------------------------------------: |
-| 2023.07.17 | [다리 만들기](https://www.acmicpc.net/problem/2146) | [뱀](https://www.acmicpc.net/problem/3190) | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) |
-| 2023.07.18 | [두 용액](https://www.acmicpc.net/problem/2470)   |[휴게소 세우기](https://www.acmicpc.net/problem/1477) | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|
-| 2023.07.19 | [물통](https://www.acmicpc.net/problem/2251) | [친구비](https://www.acmicpc.net/problem/16562) | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|
-| 2023.07.20 |                                                     |                                            |                                                                                  |
-| 2023.07.21 |                                                     |                                            |                                                                                  |
+|    날짜    |                          1                          |                           2                           |                                        3                                         |
+| :--------: | :-------------------------------------------------: | :---------------------------------------------------: | :------------------------------------------------------------------------------: |
+| 2023.07.17 | [다리 만들기](https://www.acmicpc.net/problem/2146) |      [뱀](https://www.acmicpc.net/problem/3190)       | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) |
+| 2023.07.18 |   [두 용액](https://www.acmicpc.net/problem/2470)   | [휴게소 세우기](https://www.acmicpc.net/problem/1477) |  [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)   |
+| 2023.07.19 |    [물통](https://www.acmicpc.net/problem/2251)     |    [친구비](https://www.acmicpc.net/problem/16562)    |  [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |
+| 2023.07.20 |   [스도쿠](https://www.acmicpc.net/problem/2580)    |    [동전 1](https://www.acmicpc.net/problem/2293)     |  [부대 복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)   |
+| 2023.07.21 |                                                     |                                                       |                                                                                  |
 
 <br />
