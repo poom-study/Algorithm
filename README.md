@@ -60,10 +60,10 @@
 
 |    날짜    |                          1                          |                     2                      |                                        3                                         |
 | :--------: | :-------------------------------------------------: | :----------------------------------------: | :------------------------------------------------------------------------------: |
-| 2023.07.10 | [다리 만들기](https://www.acmicpc.net/problem/2146) | [뱀](https://www.acmicpc.net/problem/3190) | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) |
-| 2023.07.11 |                                                     |                                            |                                                                                  |
-| 2023.07.12 |                                                     |                                            |                                                                                  |
-| 2023.07.13 |                                                     |                                            |                                                                                  |
-| 2023.07.14 |                                                     |                                            |                                                                                  |
+| 2023.07.17 | [다리 만들기](https://www.acmicpc.net/problem/2146) | [뱀](https://www.acmicpc.net/problem/3190) | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) |
+| 2023.07.18 | [두 용액](https://www.acmicpc.net/problem/2470)   |[휴게소 세우기](https://www.acmicpc.net/problem/1477) | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|
+| 2023.07.19 |                                                     |                                            |                                                                                  |
+| 2023.07.20 |                                                     |                                            |                                                                                  |
+| 2023.07.21 |                                                     |                                            |                                                                                  |
 
 <br />
