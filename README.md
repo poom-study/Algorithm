@@ -57,3 +57,13 @@
 | 2023.07.14 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [인구 이동](https://www.acmicpc.net/problem/16234) |                [단어 수학](https://www.acmicpc.net/problem/1339)                |
 
 <br />
+
+|    날짜    |                          1                          |                     2                      |                                        3                                         |
+| :--------: | :-------------------------------------------------: | :----------------------------------------: | :------------------------------------------------------------------------------: |
+| 2023.07.10 | [다리 만들기](https://www.acmicpc.net/problem/2146) | [뱀](https://www.acmicpc.net/problem/3190) | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) |
+| 2023.07.11 |                                                     |                                            |                                                                                  |
+| 2023.07.12 |                                                     |                                            |                                                                                  |
+| 2023.07.13 |                                                     |                                            |                                                                                  |
+| 2023.07.14 |                                                     |                                            |                                                                                  |
+
+<br />
