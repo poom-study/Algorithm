@@ -64,6 +64,6 @@
 | 2023.07.18 |   [두 용액](https://www.acmicpc.net/problem/2470)   | [휴게소 세우기](https://www.acmicpc.net/problem/1477) |  [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)   |
 | 2023.07.19 |    [물통](https://www.acmicpc.net/problem/2251)     |    [친구비](https://www.acmicpc.net/problem/16562)    |  [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |
 | 2023.07.20 |   [스도쿠](https://www.acmicpc.net/problem/2580)    |    [동전 1](https://www.acmicpc.net/problem/2293)     |  [부대 복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)   |
-| 2023.07.21 |                                                     |                                                       |                                                                                  |
+| 2023.07.21 |   [이진 검색 트리](https://www.acmicpc.net/problem/5639)                                                  |   [체스판 다시 칠하기 2](https://www.acmicpc.net/problem/25682)                                                    |   [감시](https://www.acmicpc.net/problem/15683)                                                                               |
 
 <br />
