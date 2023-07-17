@@ -5,7 +5,7 @@
 ## ☑️ 진행 방식
 
 - 매주 월요일 19:00 온라인으로 코드 리뷰를 진행합니다.
-- 일주일 동안 총 15개의 문제를 풀이합니다.(일자별 3문제씩 진행)
+- 일주일 동안 총 15개의 문제를 풀이합니다.(일자별 2문제씩 진행)
 - 풀이할 문제는 백준과 프로그래머스에서 선정합니다.
 - 풀이 언어는 자유롭게 선택해서 진행합니다.
 
@@ -48,6 +48,17 @@
 > 매일 3문제씩 풀이 진행
 > `[문제이름](링크)`형식으로 문제 추가
 
+
+|    날짜    |                          1                          |                           2                           |
+| :--------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 2023.07.17 | [다리 만들기](https://www.acmicpc.net/problem/2146) |      [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)       |
+| 2023.07.18 |   [두 용액](https://www.acmicpc.net/problem/2470)   |   [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)   |
+| 2023.07.19 |    [물통](https://www.acmicpc.net/problem/2251)     |    [친구비](https://www.acmicpc.net/problem/16562)
+| 2023.07.20 |   [스도쿠](https://www.acmicpc.net/problem/2580)    |    [동전 1](https://www.acmicpc.net/problem/2293)     |
+| 2023.07.21 |   [이진 검색 트리](https://www.acmicpc.net/problem/5639)      |   [체스판 다시 칠하기 2](https://www.acmicpc.net/problem/25682)           |
+
+<br />
+
 |    날짜    |                                         1                                          |                         2                          |                                        3                                        |
 | :--------: | :--------------------------------------------------------------------------------: | :------------------------------------------------: | :-----------------------------------------------------------------------------: |
 | 2023.07.10 |              [겹치는 건 싫어](https://www.acmicpc.net/problem/20922)               |  [입국심사](https://www.acmicpc.net/problem/3079)  |   [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)   |
@@ -58,12 +69,3 @@
 
 <br />
 
-|    날짜    |                          1                          |                           2                           |                                        3                                         |
-| :--------: | :-------------------------------------------------: | :---------------------------------------------------: | :------------------------------------------------------------------------------: |
-| 2023.07.17 | [다리 만들기](https://www.acmicpc.net/problem/2146) |      [뱀](https://www.acmicpc.net/problem/3190)       | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) |
-| 2023.07.18 |   [두 용액](https://www.acmicpc.net/problem/2470)   | [휴게소 세우기](https://www.acmicpc.net/problem/1477) |  [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)   |
-| 2023.07.19 |    [물통](https://www.acmicpc.net/problem/2251)     |    [친구비](https://www.acmicpc.net/problem/16562)    |  [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |
-| 2023.07.20 |   [스도쿠](https://www.acmicpc.net/problem/2580)    |    [동전 1](https://www.acmicpc.net/problem/2293)     |  [부대 복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)   |
-| 2023.07.21 |   [이진 검색 트리](https://www.acmicpc.net/problem/5639)                                                  |   [체스판 다시 칠하기 2](https://www.acmicpc.net/problem/25682)                                                    |   [감시](https://www.acmicpc.net/problem/15683)                                                                               |
-
-<br />
