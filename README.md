@@ -53,7 +53,7 @@
 | 2023.07.24 | [회전초밥](https://www.acmicpc.net/problem/15961) |        [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)         |
 | 2023.07.25 |    [배](https://www.acmicpc.net/problem/1092)     | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) |
 | 2023.07.26 | [게임개발](https://www.acmicpc.net/problem/1516)  |                 [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)                  |
-| 2023.07.27 |                       []()                        |                                             []()                                              |
+| 2023.07.27 |[RGB거리 2](https://www.acmicpc.net/problem/17404) | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)        |
 | 2023.07.28 |                       []()                        |                                             []()                                              |
 
 <br />
