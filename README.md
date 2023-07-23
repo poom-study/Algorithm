@@ -51,13 +51,14 @@
 
 |    날짜    |                          1                          |                           2                           |
 | :--------: | :-------------------------------------------------: | :---------------------------------------------------: |
-| 2023.07.17 | [다리 만들기](https://www.acmicpc.net/problem/2146) |      [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)       |
-| 2023.07.18 |   [두 용액](https://www.acmicpc.net/problem/2470)   |   [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)   |
-| 2023.07.19 |    [물통](https://www.acmicpc.net/problem/2251)     |    [친구비](https://www.acmicpc.net/problem/16562)
-| 2023.07.20 |   [스도쿠](https://www.acmicpc.net/problem/2580)    |    [동전 1](https://www.acmicpc.net/problem/2293)     |
-| 2023.07.21 |   [이진 검색 트리](https://www.acmicpc.net/problem/5639)      |   [체스판 다시 칠하기 2](https://www.acmicpc.net/problem/25682)           |
+| 2023.07.24 | [회전초밥](https://www.acmicpc.net/problem/15961) |  [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)    |
+| 2023.07.25 | []()  | []()  |
+| 2023.07.26 | []()  | []()  |
+| 2023.07.27 | []()  | []()  |
+| 2023.07.28 | []()  | []()  |
 
 <br />
+
 
 |    날짜    |                                         1                                          |                         2                          |                                        3                                        |
 | :--------: | :--------------------------------------------------------------------------------: | :------------------------------------------------: | :-----------------------------------------------------------------------------: |
@@ -66,6 +67,9 @@
 | 2023.07.12 |                [테트로미노](https://www.acmicpc.net/problem/14500)                 |  [내리막길](https://www.acmicpc.net/problem/1520)  |    [등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500)     |
 | 2023.07.13 |                   [토마토](https://www.acmicpc.net/problem/7576)                   |    [치즈](https://www.acmicpc.net/problem/2636)    | [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129) |
 | 2023.07.14 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [인구 이동](https://www.acmicpc.net/problem/16234) |                [단어 수학](https://www.acmicpc.net/problem/1339)                |
-
-<br />
+| 2023.07.17 | [다리 만들기](https://www.acmicpc.net/problem/2146) |      [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)       |-|
+| 2023.07.18 |   [두 용액](https://www.acmicpc.net/problem/2470)   |   [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)   |-|
+| 2023.07.19 |    [물통](https://www.acmicpc.net/problem/2251)     |    [친구비](https://www.acmicpc.net/problem/16562) |-|
+| 2023.07.20 |   [스도쿠](https://www.acmicpc.net/problem/2580)    |    [동전 1](https://www.acmicpc.net/problem/2293)     |-|
+| 2023.07.21 |   [이진 검색 트리](https://www.acmicpc.net/problem/5639)      |   [체스판 다시 칠하기 2](https://www.acmicpc.net/problem/25682)           |-|
 
