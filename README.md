@@ -52,7 +52,7 @@
 | :--------: | :-----------------------------------------------: | :-------------------------------------------------------------------------------------------: |
 | 2023.07.31 | [줄 세우기](https://www.acmicpc.net/problem/2252) | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |
 | 2023.08.01 | [피리 부는 사나이](https://www.acmicpc.net/problem/16724) | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) |
-| 2023.08.02 | []() | []() |
+| 2023.08.02 | [리모컨](https://www.acmicpc.net/problem/1107) | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) |
 | 2023.08.03 | []() | []() |
 | 2023.08.04 | []() | []() |
 
