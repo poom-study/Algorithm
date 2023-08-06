@@ -58,16 +58,11 @@
 
 <br />
 
-<details>
-<summary>2023-08 문제목록</summary>
-
 |    날짜    |                             1                             |                                          2                                           |
 | :--------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------: |
 | 2023.08.01 | [피리 부는 사나이](https://www.acmicpc.net/problem/16724) |   [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)   |
 | 2023.08.02 |      [리모컨](https://www.acmicpc.net/problem/1107)       | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) |
 | 2023.08.03 |    [비밀 모임](https://www.acmicpc.net/problem/13424)     |                [양 구출 작전](https://www.acmicpc.net/problem/16437)                 |
-
-</details>
 
 <details>
 <summary>2023-07 문제 목록</summary>
