@@ -48,15 +48,29 @@
 > 매일 3문제씩 풀이 진행
 > `[문제이름](링크)`형식으로 문제 추가
 
-|    날짜    |                             1                             |                                              2                                               |
-| :--------: | :-------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
-| 2023.07.31 |     [줄 세우기](https://www.acmicpc.net/problem/2252)     | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |
-| 2023.08.01 | [피리 부는 사나이](https://www.acmicpc.net/problem/16724) |       [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)       |
-| 2023.08.02 |      [리모컨](https://www.acmicpc.net/problem/1107)       |     [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)     |
-| 2023.08.03 |    [비밀 모임](https://www.acmicpc.net/problem/13424)     |                    [양 구출 작전](https://www.acmicpc.net/problem/16437)                     |
-| 2023.08.04 |                           []()                            |                                             []()                                             |
+|    날짜    |                       1                       |                                           2                                           |
+| :--------: | :-------------------------------------------: | :-----------------------------------------------------------------------------------: |
+| 2023.08.07 | [해킹](https://www.acmicpc.net/problem/10282) | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |
+| 2023.08.08 |                     []()                      |                                         []()                                          |
+| 2023.08.09 |                     []()                      |                                         []()                                          |
+| 2023.08.10 |                     []()                      |                                         []()                                          |
+| 2023.08.11 |                     []()                      |                                         []()                                          |
 
 <br />
+
+<details>
+<summary>2023-08 문제목록</summary>
+
+|    날짜    |                             1                             |                                          2                                           |
+| :--------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------: |
+| 2023.08.01 | [피리 부는 사나이](https://www.acmicpc.net/problem/16724) |   [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)   |
+| 2023.08.02 |      [리모컨](https://www.acmicpc.net/problem/1107)       | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) |
+| 2023.08.03 |    [비밀 모임](https://www.acmicpc.net/problem/13424)     |                [양 구출 작전](https://www.acmicpc.net/problem/16437)                 |
+
+</details>
+
+<details>
+<summary>2023-07 문제 목록</summary>
 
 |    날짜    |                                         1                                          |                                               2                                               |                                        3                                        |
 | :--------: | :--------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
@@ -75,3 +89,6 @@
 | 2023.07.26 |                  [게임개발](https://www.acmicpc.net/problem/1516)                  |                 [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)                  |                                        -                                        |
 | 2023.07.27 |                 [RGB거리 2](https://www.acmicpc.net/problem/17404)                 |        [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)         |                                        -                                        |
 | 2023.07.28 |                    [LCS](https://www.acmicpc.net/problem/9251)                     |          [에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289)           |                                        -                                        |
+| 2023.07.31 |                 [줄 세우기](https://www.acmicpc.net/problem/2252)                  | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)  |                                        -                                        |
+
+</details>
