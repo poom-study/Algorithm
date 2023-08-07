@@ -54,7 +54,7 @@
 | 2023.08.08 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | [게임 닉네임](https://www.acmicpc.net/problem/16934) |
 | 2023.08.09 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [틱택토](https://www.acmicpc.net/problem/7682) |
 | 2023.08.10 | [파티](https://www.acmicpc.net/problem/1238) |  [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)  |
-| 2023.08.11 |                     []()                      |                                         []()                                          |
+| 2023.08.11 | [합이 0](https://www.acmicpc.net/problem/3151) | [광고삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) |
 
 <br />
 
