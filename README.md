@@ -52,7 +52,7 @@
 | :--------: | :-------------------------------------------: | :-----------------------------------------------------------------------------------: |
 | 2023.08.07 | [해킹](https://www.acmicpc.net/problem/10282) | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |
 | 2023.08.08 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | [게임 닉네임](https://www.acmicpc.net/problem/16934) |
-| 2023.08.09 |                     []()                      |                                         []()                                          |
+| 2023.08.09 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [틱택토](https://www.acmicpc.net/problem/7682) |
 | 2023.08.10 |                     []()                      |                                         []()                                          |
 | 2023.08.11 |                     []()                      |                                         []()                                          |
 
