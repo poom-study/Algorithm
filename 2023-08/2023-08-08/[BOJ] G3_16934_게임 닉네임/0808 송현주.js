@@ -1,3 +1,8 @@
+/*
+[BOJ] 16234_게임 닉네임_골드3
+https://www.acmicpc.net/problem/16234
+*/
+
 // Node 클래스
 class Node {
   constructor(value = "") {
