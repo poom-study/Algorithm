@@ -50,11 +50,11 @@
 
 |    날짜    |                       1                       |                                           2                                           |
 | :--------: | :-------------------------------------------: | :-----------------------------------------------------------------------------------: |
-| 2023.08.07 | [해킹](https://www.acmicpc.net/problem/10282) | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |
-| 2023.08.08 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | [게임 닉네임](https://www.acmicpc.net/problem/16934) |
-| 2023.08.09 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [틱택토](https://www.acmicpc.net/problem/7682) |
-| 2023.08.10 | [파티](https://www.acmicpc.net/problem/1238) |  [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)  |
-| 2023.08.11 | [합이 0](https://www.acmicpc.net/problem/3151) | [광고삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) |
+| 2023.08.14 |  []()  |  []()  |
+| 2023.08.15 |  []()  |  []()  |
+| 2023.08.16 |  []()  |  []()  |
+| 2023.08.17 |  []()  |  []()  |
+| 2023.08.18 |  []()  |  []()  |
 
 <br />
 
@@ -63,6 +63,12 @@
 | 2023.08.01 | [피리 부는 사나이](https://www.acmicpc.net/problem/16724) |   [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)   |
 | 2023.08.02 |      [리모컨](https://www.acmicpc.net/problem/1107)       | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) |
 | 2023.08.03 |    [비밀 모임](https://www.acmicpc.net/problem/13424)     |                [양 구출 작전](https://www.acmicpc.net/problem/16437)                 |
+| 2023.08.07 | [해킹](https://www.acmicpc.net/problem/10282) | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |
+| 2023.08.08 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | [게임 닉네임](https://www.acmicpc.net/problem/16934) |
+| 2023.08.09 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [틱택토](https://www.acmicpc.net/problem/7682) |
+| 2023.08.10 | [파티](https://www.acmicpc.net/problem/1238) |  [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)  |
+| 2023.08.11 | [합이 0](https://www.acmicpc.net/problem/3151) | [광고삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) |
+
 
 <details>
 <summary>2023-07 문제 목록</summary>
