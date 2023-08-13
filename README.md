@@ -53,7 +53,7 @@
 | 2023.08.14 |  [도둑 🥷](https://www.acmicpc.net/problem/13422)  |  [좋다 🥰](https://www.acmicpc.net/problem/1253)  |
 | 2023.08.15 |  [🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵](https://www.acmicpc.net/problem/20440)  |  [부대복귀 🪖](https://school.programmers.co.kr/learn/courses/30/lessons/132266)  |
 | 2023.08.16 |  [중량제한 🤚](https://www.acmicpc.net/problem/1939)  |  [불우이웃돕기 🧑‍🦼](https://www.acmicpc.net/problem/1414)  |
-| 2023.08.17 |  []()  |  []()  |
+| 2023.08.17 |  [우주신과의 교감 👽](https://www.acmicpc.net/problem/1774)  |  [경주로 건설 🏎️](https://school.programmers.co.kr/learn/courses/30/lessons/67259)  |
 | 2023.08.18 |  []()  |  []()  |
 
 <br />
