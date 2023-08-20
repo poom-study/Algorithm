@@ -54,7 +54,7 @@
 | 2023.08.22 | [좋은수열](https://www.acmicpc.net/problem/2661) | [도서관](https://www.acmicpc.net/problem/1461) |
 | 2023.08.23 | [벽타기](https://www.acmicpc.net/problem/23563) | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) |
 | 2023.08.24 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | [카드 섞기](https://www.acmicpc.net/problem/1091) |
-| 2023.08.25 | []() | []() |
+| 2023.08.25 | [거울 설치](https://www.acmicpc.net/problem/2151) | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) |
 
 <br />
 
