@@ -50,11 +50,11 @@
 
 |    날짜    |                       1                       |                                           2                                           |
 | :--------: | :-------------------------------------------: | :-----------------------------------------------------------------------------------: |
-| 2023.08.14 |  [도둑 🥷](https://www.acmicpc.net/problem/13422)  |  [좋다 🥰](https://www.acmicpc.net/problem/1253)  |
-| 2023.08.15 |  [🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵](https://www.acmicpc.net/problem/20440)  |  [부대복귀 🪖](https://school.programmers.co.kr/learn/courses/30/lessons/132266)  |
-| 2023.08.16 |  [중량제한 🤚](https://www.acmicpc.net/problem/1939)  |  [불우이웃돕기 🧑‍🦼](https://www.acmicpc.net/problem/1414)  |
-| 2023.08.17 |  [우주신과의 교감 👽](https://www.acmicpc.net/problem/1774)  |  [경주로 건설 🏎️](https://school.programmers.co.kr/learn/courses/30/lessons/67259)  |
-| 2023.08.18 |  [가장 가까운 공통 조상 🎅](https://www.acmicpc.net/problem/3584)  |  [월드컵 ⚽️](https://www.acmicpc.net/problem/6987)  |
+| 2023.08.21 | [사탕가게](https://www.acmicpc.net/problem/4781) | [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646) |
+| 2023.08.22 | []() | []() |
+| 2023.08.23 | []() | []() |
+| 2023.08.24 | []() | []() |
+| 2023.08.25 | []() | []() |
 
 <br />
 
@@ -68,6 +68,11 @@
 | 2023.08.09 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [틱택토](https://www.acmicpc.net/problem/7682) |
 | 2023.08.10 | [파티](https://www.acmicpc.net/problem/1238) |  [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)  |
 | 2023.08.11 | [합이 0](https://www.acmicpc.net/problem/3151) | [광고삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) |
+| 2023.08.14 |  [도둑 🥷](https://www.acmicpc.net/problem/13422)  |  [좋다 🥰](https://www.acmicpc.net/problem/1253)  |
+| 2023.08.15 |  [🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵](https://www.acmicpc.net/problem/20440)  |  [부대복귀 🪖](https://school.programmers.co.kr/learn/courses/30/lessons/132266)  |
+| 2023.08.16 |  [중량제한 🤚](https://www.acmicpc.net/problem/1939)  |  [불우이웃돕기 🧑‍🦼](https://www.acmicpc.net/problem/1414)  |
+| 2023.08.17 |  [우주신과의 교감 👽](https://www.acmicpc.net/problem/1774)  |  [경주로 건설 🏎️](https://school.programmers.co.kr/learn/courses/30/lessons/67259)  |
+| 2023.08.18 |  [가장 가까운 공통 조상 🎅](https://www.acmicpc.net/problem/3584)  |  [월드컵 ⚽️](https://www.acmicpc.net/problem/6987)  |
 
 
 <details>
