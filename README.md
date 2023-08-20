@@ -52,7 +52,7 @@
 | :--------: | :-------------------------------------------: | :-----------------------------------------------------------------------------------: |
 | 2023.08.21 | [사탕가게](https://www.acmicpc.net/problem/4781) | [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646) |
 | 2023.08.22 | [좋은수열](https://www.acmicpc.net/problem/2661) | [도서관](https://www.acmicpc.net/problem/1461) |
-| 2023.08.23 | []() | []() |
+| 2023.08.23 | [벽타기](https://www.acmicpc.net/problem/23563) | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) |
 | 2023.08.24 | []() | []() |
 | 2023.08.25 | []() | []() |
 
