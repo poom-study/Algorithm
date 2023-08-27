@@ -50,11 +50,11 @@
 
 |    날짜    |                       1                       |                                           2                                           |
 | :--------: | :-------------------------------------------: | :-----------------------------------------------------------------------------------: |
-| 2023.08.21 | [사탕가게](https://www.acmicpc.net/problem/4781) | [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646) |
-| 2023.08.22 | [좋은수열](https://www.acmicpc.net/problem/2661) | [도서관](https://www.acmicpc.net/problem/1461) |
-| 2023.08.23 | [벽타기](https://www.acmicpc.net/problem/23563) | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) |
-| 2023.08.24 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | [카드 섞기](https://www.acmicpc.net/problem/1091) |
-| 2023.08.25 | [거울 설치](https://www.acmicpc.net/problem/2151) | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) |
+| 2023.08.28 | [팀배분](https://www.acmicpc.net/problem/1953) | [정육점](https://www.acmicpc.net/problem/2258) |
+| 2023.08.29 | []() | []() |
+| 2023.08.30 | []() | []() |
+| 2023.08.31 | []() | []() |
+| 2023.09.01 | []() | []() |
 
 <br />
 
@@ -73,6 +73,11 @@
 | 2023.08.16 |  [중량제한 🤚](https://www.acmicpc.net/problem/1939)  |  [불우이웃돕기 🧑‍🦼](https://www.acmicpc.net/problem/1414)  |
 | 2023.08.17 |  [우주신과의 교감 👽](https://www.acmicpc.net/problem/1774)  |  [경주로 건설 🏎️](https://school.programmers.co.kr/learn/courses/30/lessons/67259)  |
 | 2023.08.18 |  [가장 가까운 공통 조상 🎅](https://www.acmicpc.net/problem/3584)  |  [월드컵 ⚽️](https://www.acmicpc.net/problem/6987)  |
+| 2023.08.21 | [사탕가게](https://www.acmicpc.net/problem/4781) | [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646) |
+| 2023.08.22 | [좋은수열](https://www.acmicpc.net/problem/2661) | [도서관](https://www.acmicpc.net/problem/1461) |
+| 2023.08.23 | [벽타기](https://www.acmicpc.net/problem/23563) | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) |
+| 2023.08.24 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | [카드 섞기](https://www.acmicpc.net/problem/1091) |
+| 2023.08.25 | [거울 설치](https://www.acmicpc.net/problem/2151) | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) |
 
 
 <details>
