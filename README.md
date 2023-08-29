@@ -53,7 +53,7 @@
 | 2023.08.28 | [팀배분](https://www.acmicpc.net/problem/1953) | [정육점](https://www.acmicpc.net/problem/2258) |
 | 2023.08.29 | [순회강연](https://www.acmicpc.net/problem/2109) | [운동](https://www.acmicpc.net/problem/1956) |
 | 2023.08.30 | [타일 채우기](https://www.acmicpc.net/problem/2133) | [고냥이](https://www.acmicpc.net/problem/16472) |
-| 2023.08.31 | []() | []() |
+| 2023.08.31 | [알고스팟](https://www.acmicpc.net/problem/1261) | [정수삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) |
 | 2023.09.01 | []() | []() |
 
 <br />
