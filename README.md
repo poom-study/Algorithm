@@ -48,17 +48,26 @@
 > 매일 2문제씩 풀이 진행
 > `[문제이름](링크)`형식으로 문제 추가
 
+
 |    날짜    |                       1                       |                                           2                                           |
 | :--------: | :-------------------------------------------: | :-----------------------------------------------------------------------------------: |
-| 2023.08.28 | [팀배분](https://www.acmicpc.net/problem/1953) | [정육점](https://www.acmicpc.net/problem/2258) |
-| 2023.08.29 | [순회강연](https://www.acmicpc.net/problem/2109) | [운동](https://www.acmicpc.net/problem/1956) |
-| 2023.08.30 | [타일 채우기](https://www.acmicpc.net/problem/2133) | [고냥이](https://www.acmicpc.net/problem/16472) |
-| 2023.08.31 | [알고스팟](https://www.acmicpc.net/problem/1261) | [정수삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) |
+| 2023.09.04 | [휴게소 세우기](https://www.acmicpc.net/problem/1477) | [제자리 멀리뛰기](https://www.acmicpc.net/problem/6209) |
+| 2023.09.05 | []() | []() |
+| 2023.09.06 | []() | []() |
+| 2023.09.07 | []() | []() |
+| 2023.09.08 | []() | []() |
+
+
+|    날짜    |                       1                       |                                           2                                           |
+| :--------: | :-------------------------------------------: | :-----------------------------------------------------------------------------------: |
 | 2023.09.01 | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) | [문자열 생성](https://www.acmicpc.net/problem/6137) |
 
-<br />
+<br/>
 
-|    날짜    |                             1                             |                                          2                                           |
+<details>
+<summary>2023-08 문제 목록</summary>
+  
+|    날짜    |                                         1                                          |                                               2                                               |
 | :--------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------: |
 | 2023.08.01 | [피리 부는 사나이](https://www.acmicpc.net/problem/16724) |   [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)   |
 | 2023.08.02 |      [리모컨](https://www.acmicpc.net/problem/1107)       | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) |
@@ -78,6 +87,11 @@
 | 2023.08.23 | [벽타기](https://www.acmicpc.net/problem/23563) | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) |
 | 2023.08.24 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | [카드 섞기](https://www.acmicpc.net/problem/1091) |
 | 2023.08.25 | [거울 설치](https://www.acmicpc.net/problem/2151) | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) |
+| 2023.08.28 | [팀배분](https://www.acmicpc.net/problem/1953) | [정육점](https://www.acmicpc.net/problem/2258) |
+| 2023.08.29 | [순회강연](https://www.acmicpc.net/problem/2109) | [운동](https://www.acmicpc.net/problem/1956) |
+| 2023.08.30 | [타일 채우기](https://www.acmicpc.net/problem/2133) | [고냥이](https://www.acmicpc.net/problem/16472) |
+| 2023.08.31 | [알고스팟](https://www.acmicpc.net/problem/1261) | [정수삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) |
+</details>
 
 
 <details>
