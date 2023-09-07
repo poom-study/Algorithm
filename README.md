@@ -51,16 +51,12 @@
 
 |    날짜    |                       1                       |                                           2                                           |
 | :--------: | :-------------------------------------------: | :-----------------------------------------------------------------------------------: |
+| 2023.09.01 | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) | [문자열 생성](https://www.acmicpc.net/problem/6137) |
 | 2023.09.04 | [휴게소 세우기](https://www.acmicpc.net/problem/1477) | [제자리 멀리뛰기](https://www.acmicpc.net/problem/6209) |
 | 2023.09.05 | [Two Dots](https://www.acmicpc.net/problem/16929) | [소문난 칠공주](https://www.acmicpc.net/problem/1941) |
 | 2023.09.06 | [사분면](https://www.acmicpc.net/problem/1891) | [프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf&categoryId=AV4suNtaXFEDFAUf&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
 | 2023.09.07 | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | [야근지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) |
-| 2023.09.08 | []() | []() |
-
-
-|    날짜    |                       1                       |                                           2                                           |
-| :--------: | :-------------------------------------------: | :-----------------------------------------------------------------------------------: |
-| 2023.09.01 | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) | [문자열 생성](https://www.acmicpc.net/problem/6137) |
+| 2023.09.08 | [여행가자](https://www.acmicpc.net/problem/1976) | [가장큰정사각형](https://www.acmicpc.net/problem/1915) |
 
 <br/>
 
