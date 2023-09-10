@@ -48,8 +48,6 @@ def dfs(idx, cnt, length):
 
     dfs(idx+1, cnt, length) # 선택 안함
 
-
-
 T = int(input())
 
 for t in range(1, T+1):
